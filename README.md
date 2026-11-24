@@ -1,6 +1,8 @@
 🛍️ Smart Deal Hunter
 An AI shopping assistant that tracks product prices, builds a price history, and tells you
 whether to Buy Now or Wait for a better deal.
+https://smart-deal-hunter-4qeb5536wbfugt8gm4jx7j.streamlit.app/
+
 Features
 Price tracking on a randomised 12-30 minute schedule per product
 Price history, lowest / highest / average price and trend analysis
